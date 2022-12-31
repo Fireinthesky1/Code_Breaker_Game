@@ -1,0 +1,4 @@
+﻿  Application.c
+C:\Users\James\source\repos\Code Breaker\Application.c(36,15): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\James\source\repos\Code Breaker\Application.c(56,66): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Code Breaker.vcxproj -> C:\Users\James\source\repos\Code Breaker\Debug\Code Breaker.exe
